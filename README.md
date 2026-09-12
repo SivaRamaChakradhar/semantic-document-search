@@ -32,6 +32,16 @@ Top-K Results
 - NumPy
 - Scikit-learn
 
+### Search Benchmark
+
+The search benchmark was executed after the Sentence-Transformer model
+was loaded, so model initialization time is excluded from query latency.
+
+| Metric                 | Result |
+| Number of queries      | 5      |
+| Total search time      | 0.9472 seconds |
+| Average search latency | 0.1894 seconds |
+
 ## Project Structure
 
 ```text
@@ -45,13 +55,3 @@ src/
 cli.py
 requirements.txt
 README.md
-
-### Search Benchmark
-
-The search benchmark was executed after the Sentence-Transformer model
-was loaded, so model initialization time is excluded from query latency.
-
-| Metric                 | Result |
-| Number of queries      | 5      |
-| Total search time      | 0.9472 seconds |
-| Average search latency | 0.1894 seconds |
