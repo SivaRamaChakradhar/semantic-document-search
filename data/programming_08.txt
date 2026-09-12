@@ -1,0 +1,11 @@
+Topic: Programming
+
+Python is a popular programming language used for automation, data science, and artificial intelligence.
+
+JavaScript is widely used to build interactive websites and web applications.
+
+Software engineers use algorithms and data structures to solve computational problems.
+
+Version control systems help developers track changes and collaborate on software projects.
+
+This document provides an overview of programming and related concepts. Example document variation 8.

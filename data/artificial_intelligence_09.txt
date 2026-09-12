@@ -1,0 +1,11 @@
+Topic: Artificial Intelligence
+
+Artificial intelligence allows computers to perform tasks that normally require human intelligence.
+
+Machine learning systems learn patterns from data and use those patterns to make predictions.
+
+Neural networks are computational models inspired by biological neurons.
+
+Generative AI can produce text, images, audio, and software from user instructions.
+
+This document provides an overview of artificial intelligence and related concepts. Example document variation 9.
